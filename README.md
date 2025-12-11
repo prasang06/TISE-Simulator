@@ -68,7 +68,7 @@ sudo apt-get install python3-tk
 
    * **Infinite Well**: A simple square potential well with infinitely high walls at the boundaries.
    * **Finite Well**: A finite square potential well, where you can specify the depth of the well.
-   * **Harmonic Oscillator**: A potential of the form (V(x) = \frac{1}{2} m \omega^2 x^2), representing a harmonic oscillator.
+   * **Harmonic Oscillator**: A potential of the form $V(x) = \frac{1}{2} m \omega^2 x^2$, representing a harmonic oscillator.
    * **Custom**: Allow users to input custom Python expressions to define the potential function.
 
 6. **Number of Eigenstates**: Choose how many eigenstates to compute and display.
