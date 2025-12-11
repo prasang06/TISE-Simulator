@@ -37,7 +37,7 @@ sudo apt-get install python3-tk
 1. Clone or download the project:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/prasang06/TISE-Simulator.git
    ```
 
 2. Install the required dependencies using pip:
